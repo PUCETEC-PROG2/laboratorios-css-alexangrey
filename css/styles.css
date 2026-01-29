@@ -7,6 +7,7 @@ body {
     color: aliceblue;
 
 
+
     font-family: "UnifrakturMaguntia", cursive;
     font-weight: 400;
     font-style: normal;
@@ -29,6 +30,11 @@ section{
 
 }
 
+.copy {
+    text-align: center;
+
+}
+
 .icons {
     list-style: none;
 }
@@ -36,6 +42,10 @@ section{
 .icons li{
     display: inline-block;
     margin: 0 10px;
+}
+
+.cab{
+    text-align: center;
 }
 
 .icons img{
